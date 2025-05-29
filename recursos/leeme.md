@@ -3,3 +3,6 @@
 
 ## Encabezado Drawer
 - ![alt text](image-2.png)
+
+## Drawer Avatar
+- ![alt text](image-3.png)

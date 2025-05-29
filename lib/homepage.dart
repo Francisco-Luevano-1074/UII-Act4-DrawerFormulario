@@ -44,7 +44,7 @@ drawer: Drawer(
         accountEmail: Text("francisco.luevano.0807@gmail.com"),
         currentAccountPicture: GestureDetector(
           child: CircleAvatar(
-           child: Text("AM",style: TextStyle(
+           child: Text("FL",style: TextStyle(
             color: Colors.pink,
             fontSize: 20.0,
             fontWeight: FontWeight.bold,
